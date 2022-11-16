@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar"
 import Welcome from "./components/Welcome";
 import Product from "./components/Product";
 // import Product1 from "./components/Product1";
-const arr = [1, 2, 3, 4, 5, 6]
+const arr = [1, 2, 3, 4, 5, 6,7]
 function App() {
 const [isLoading, setIsLoading] = useState(false);
 
